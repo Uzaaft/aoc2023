@@ -1,0 +1,14 @@
+/Users/uzaaft/projects/aoc2023/c_sharp/bin/Debug/net8.0/c_sharp
+/Users/uzaaft/projects/aoc2023/c_sharp/bin/Debug/net8.0/c_sharp.deps.json
+/Users/uzaaft/projects/aoc2023/c_sharp/bin/Debug/net8.0/c_sharp.runtimeconfig.json
+/Users/uzaaft/projects/aoc2023/c_sharp/bin/Debug/net8.0/c_sharp.dll
+/Users/uzaaft/projects/aoc2023/c_sharp/bin/Debug/net8.0/c_sharp.pdb
+/Users/uzaaft/projects/aoc2023/c_sharp/obj/Debug/net8.0/c_sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uzaaft/projects/aoc2023/c_sharp/obj/Debug/net8.0/c_sharp.AssemblyInfoInputs.cache
+/Users/uzaaft/projects/aoc2023/c_sharp/obj/Debug/net8.0/c_sharp.AssemblyInfo.cs
+/Users/uzaaft/projects/aoc2023/c_sharp/obj/Debug/net8.0/c_sharp.csproj.CoreCompileInputs.cache
+/Users/uzaaft/projects/aoc2023/c_sharp/obj/Debug/net8.0/c_sharp.dll
+/Users/uzaaft/projects/aoc2023/c_sharp/obj/Debug/net8.0/refint/c_sharp.dll
+/Users/uzaaft/projects/aoc2023/c_sharp/obj/Debug/net8.0/c_sharp.pdb
+/Users/uzaaft/projects/aoc2023/c_sharp/obj/Debug/net8.0/c_sharp.genruntimeconfig.cache
+/Users/uzaaft/projects/aoc2023/c_sharp/obj/Debug/net8.0/ref/c_sharp.dll
